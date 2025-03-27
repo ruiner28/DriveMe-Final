@@ -1,8 +1,8 @@
 CPSC 449: Mid Term Project [DriveMe]
 
 Team Members:
-Atharva Kurumbhatte (836194753)
-Gaurav Pawar (830234373)
+Atharva Kurumbhatte (836194753),
+Gaurav Pawar (830234373),
 Uday Biradar (845654557)
 
 Install python3 in your system
